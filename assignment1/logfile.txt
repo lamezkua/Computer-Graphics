@@ -1,0 +1,17 @@
+* commit ccc0b9ce5a5c6414dcccf4ff9500f6dbe9b03c2b
+| Author: Amezcua Aragon Luis <luis.amezcuaaragon@aalto.fi>
+| Date:   Fri Sep 20 18:41:31 2019 +0300
+| 
+|     Version 1
+| 
+* commit f0f2337b92e1efb3aa88361c66c912864cd52e46
+| Author: Amezcua Aragon Luis <luis.amezcuaaragon@aalto.fi>
+| Date:   Fri Sep 20 18:25:19 2019 +0300
+| 
+|     Repository up
+| 
+* commit cd4d6bd0eb2244d903fe9a496f84ba99e99a9ba5
+  Author: Luis Amezcua <luis.amezcua@aalto.fi>
+  Date:   Fri Sep 20 14:49:21 2019 +0000
+  
+      Initial commit
